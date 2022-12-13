@@ -1,10 +1,9 @@
 # ACCA-RPG
 The "open source" tabletop roleplaying game.
 
+**This README is a dumpster fire. I typed it out really quick. It will be redone eventually. Sorry about that.**
 
-**NOTICE:
-1) This README is a dumpster fire. I typed it out really quick. It will be redone eventually. Sorry about that.
-2) THIS PROJECT IS IN VERY EARLY ALPHA STAGES. WE DON'T EVEN KNOW WHAT THE CORE CONCEPTS OF THE GAME ARE YET**
+**THIS PROJECT IS IN VERY EARLY ALPHA STAGES. WE DON'T EVEN KNOW WHAT THE CORE CONCEPTS OF THE GAME ARE YET**
 
 
 ## Wtf is this?
